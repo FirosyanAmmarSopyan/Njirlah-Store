@@ -12,7 +12,7 @@
                     <h6>Welcome To NJIRLAH STORE</h6>
                     <h4>
                       <em>Anda hobi spend money for game??</em> you are in the
-                      right place
+                      right place sir 😋
                     </h4>
                     <div class="main-button">
                       <router-link to="/shop">TOPUP LAH</router-link>

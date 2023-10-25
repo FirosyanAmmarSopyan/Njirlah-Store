@@ -12,8 +12,9 @@
 
             <!-- ***** Menu Start ***** -->
             <ul class="nav mr-5">
-              <li><router-link to="/" class="active">Home</router-link></li>
-              <li><button @click="this.$router.push('/shop')" class="btn btn-danger">Buy Now</button></li>
+              <li><button @click="this.$router.push('/')" class="btn btn-light">Home</button></li>
+              <li><button @click="this.$router.push('/shop')" class="btn btn-light">Buy Now</button></li>
+              <li><button @click="this.$router.push('/game-checker')" class="btn btn-light">Game Checker</button></li>
             </ul>
             <a class="menu-trigger">
               <span>Menu</span>
@@ -24,7 +25,6 @@
       </div>
     </div>
   </header>
-
   <RouterView />
   <footer>
     <div class="container">
