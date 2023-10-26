@@ -20,9 +20,8 @@
                         </div>
                         <div class="col-5">
                             <div class="row">
-                                <h6 style="color: black;">Zone ID</h6>
+                                <h6 style="color: black;">Zone ID OR Tag</h6>
                                 <span class="ml-2">
-                                    <p class="">optional</p>
                                 </span>
                             </div>
                             <input v-model="product.zoneId" class="form-control" placeholder="1281 or -" type="number">
