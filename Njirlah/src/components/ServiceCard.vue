@@ -1,9 +1,9 @@
 <template>
     <div class="cards" >
         <div class="card-inner text-center">
-            <img style="width: 50px;" src="../assets/images/diamond.png">
-            <p class="mt-3">{{ data.name }}</p>
-            <h6 style="color: #ccc5b9;" class="mt-5">Rp.{{ data.price }}</h6>
+            <img style="width: 50px;" src="/images/diamond.png">
+            <p class="mt-3" style="color: black;">{{ data.name }}</p>
+            <h6 style="color: black;" class="mt-5">Rp.{{ data.price }}</h6>
         </div>
     </div>
 </template>

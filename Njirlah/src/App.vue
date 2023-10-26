@@ -6,7 +6,7 @@
           <nav class="main-nav">
             <!-- ***** Logo Start ***** -->
             <router-link to="/" style="margin-top: -30px">
-              <img src="./assets/images/anu2.svg" alt="" />
+              <img src="/images/anu2.svg" alt="" />
             </router-link>
             <!-- ***** Logo End ***** -->
 

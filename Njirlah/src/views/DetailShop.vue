@@ -2,7 +2,7 @@
     <div class="container">
         <div class="row">
             <div class="col-4">
-                <img src="../assets/images/last-banner.svg" alt="">
+                <img src="/images/last-banner.svg" alt="">
             </div>
             <div class="col-8">
                 <h2>Top Up</h2>
