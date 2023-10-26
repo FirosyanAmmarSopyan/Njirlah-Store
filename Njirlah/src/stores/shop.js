@@ -2,11 +2,11 @@ import { ref, computed } from "vue";
 import { defineStore } from "pinia";
 import axios from "axios";
 
-let baseUrl = 'http://localhost:3000'
+let baseUrl = 'https://njirlah-server.masfiroz.site'
 
 export const useShopStore = defineStore("shop", {
   state: () => ({
-    baseUrl: "http://localhost:3000",
+    baseUrl: "https://njirlah-server.masfiroz.site",
     games: [],
     services: [],
   }),
